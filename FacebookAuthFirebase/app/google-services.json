@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1087002284290",
+    "firebase_url": "https://facebookauthfirebase-8a600.firebaseio.com",
+    "project_id": "facebookauthfirebase-8a600",
+    "storage_bucket": "facebookauthfirebase-8a600.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087002284290:android:d673d4574a5f9110",
+        "android_client_info": {
+          "package_name": "com.microsoft.facebookauthfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087002284290-s53ool5mf1msabak1hu6c3tbmpnjrp6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microsoft.facebookauthfirebase",
+            "certificate_hash": "17b51ecd7159694b918380197ab5bf0043705d28"
+          }
+        },
+        {
+          "client_id": "1087002284290-n4o9j8r1gfdo24tlk507gd25pivvriib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARrZRtqzoYGV3sTDqRogUfoenXgaeZZSM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087002284290-n4o9j8r1gfdo24tlk507gd25pivvriib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
